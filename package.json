@@ -1,0 +1,11 @@
+{
+  "name": "com.juahn.v2.architecture",
+  "displayName": "Architecture",
+  "author": "armadimon",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "license": "MIT",
+  "type": "library",
+  "description": "Pure C# compile-time access-rule (CQRS) architecture pattern with no UnityEngine dependency.",
+  "dependencies": {}
+}
